@@ -1,8 +1,9 @@
 # **Volha Yermak**
 ## Contacts
-    Phone: +375298517102
-    Telegram: ermakk
-    GitHub: OliaErmak   
+* Phone: +375298517102
+* Telegram: ermakk
+* GitHub: OliaErmak   
+
 ## Short info
 My nearest goals are successfully finish RRS course and learn new skills for work. I'm really hungry to knowledge and like to find new ways to solve the problem. 
  
