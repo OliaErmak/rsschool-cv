@@ -3,11 +3,9 @@
 * Phone: +375298517102
 * Telegram: ermakk
 * GitHub: OliaErmak   
-
 ## Short info
-My nearest goals are successfully finish RRS course and learn new skills for work. I'm really hungry to knowledge and like to find new ways to solve the problem. 
- 
- ## Skills
+My nearest goals are successfully finish RRS course and learn new skills for work. I'm really hungry to knowledge and like to find new ways to solve the problem.
+## Skills
 * HTML5
 * CSS
 * JS
@@ -18,7 +16,6 @@ My nearest goals are successfully finish RRS course and learn new skills for wor
 There is a link to the project which I have done when I was studying at previous course.
 
 *https://github.com/OliaErmak/315091-sedona-1*
-
 ## Experience
 * Rolling Scope School Stage 0
 * HTML Academy Basic HTML & CSS course
